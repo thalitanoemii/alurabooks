@@ -41,4 +41,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ por [Thalita Noemi](https://www.linkedin.com/in/seu-nome/) :wave:
+Feito com ♥ por [Thalita Noemi](https://www.linkedin.com/in/thalita-noemi/) :wave:
